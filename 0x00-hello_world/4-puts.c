@@ -1,12 +1,9 @@
-#include <stdio.h>
+#include <stadio.h>
 /**
- * main - Entry point
- * Description: A C program that prints with put finction
- *
- * Return: Always 0 (Success)
+ * main - A program that prints a line with puts function
+ * Return: 0 (Success)
  */
-int main(voi)
-{
-puts("\"Programming is like building a multilingual puzzle");
+int main(void)
+{puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
