@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main unction
+ * main - main function
  *
  * Return: always 0
  */
@@ -16,6 +16,6 @@ putchar(',');
 putchar(' ');
 }
 }
-putchar('\n';)
+putchar('\n');
 return (0);
 }
