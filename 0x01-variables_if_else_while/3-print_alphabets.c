@@ -10,7 +10,7 @@ int main(void)
 {
 char ch = 'a';
 char CH = 'A';
-/*prints a - z*/
+/*print a - z*/
 while (ch <= 'Z')
 {
 putchar(ch);
