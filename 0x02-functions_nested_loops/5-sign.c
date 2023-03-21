@@ -19,7 +19,7 @@ int print_sing(int n)
 	}
 	else if (n ==0)
 	{
-_putcharr(48);
+_putcher(48);
 return (0);
 }
 else
