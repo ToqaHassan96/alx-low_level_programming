@@ -3,7 +3,7 @@
 /**
  * *_strcpy - copies he string pointed to by src
  * @dest: chat type string
- * @scr: chat type string
+ * @src: chat type string
  * Description: copy the string pointed to by pointer 'src' to
  * the buffer pointed to by 'dest'
  * Return: Pointer to 'dest'
