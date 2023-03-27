@@ -4,7 +4,7 @@
  * *_strcpy - copies he string pointed to by src
  * @dest: chat type string
  * @scr: chat type string
- * Description: copy the string pointed to by pointer 'scr' to
+ * Description: copy the string pointed to by pointer 'src' to
  * the buffer pointed to by 'dest'
  * Return: Pointer to 'dest'
  */
@@ -15,8 +15,8 @@ char *_strcpy(char *dest, char *src)
 
 	do {
 		i++;
-		dest[i] = scr[i];
-	} while (scr[i] != '\0')
+		dest[i] = src[i];
+	} while (src[i] != '\0')
 
 	return (dest);
 }
